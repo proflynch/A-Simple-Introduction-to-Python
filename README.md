@@ -6,4 +6,6 @@ A-Simple-Introduction-to-Python-Solutions.ipynb: The solution notebook for the w
 
 The Data Files folder contains all of the data for the book.
 
+The file: Exemplar_Coursework_Questions.pdf lists typical questions that I use with my own students.
+
 Enjoy!
