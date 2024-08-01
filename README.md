@@ -1,5 +1,7 @@
 # A-Simple-Introduction-to-Python
 
+Corrections to minor typographical errors on pages 8 and 9.
+
 GitHub files for "A Simple Introduction to Python," published by CRC Press in 2024.
 
 A-Simple-Introduction-to-Python-Solutions.ipynb: The solution notebook for the whole book.
