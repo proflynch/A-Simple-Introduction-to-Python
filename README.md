@@ -1,6 +1,6 @@
 # A-Simple-Introduction-to-Python
 
-Corrections to minor typographical errors on pages 8 and 9.
+Correction to minor typographical errors on page 8. See Minor_Typo.pdf.
 
 GitHub files for "A Simple Introduction to Python," published by CRC Press in 2024.
 
